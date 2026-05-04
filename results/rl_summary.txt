@@ -1,0 +1,3 @@
+BASELINE  Sharpe: 1.89   Avg max drawdown: 6.35%
+PPO       Sharpe: 2.55   Avg max drawdown: 3.97%
+Convergence episode: 6826
